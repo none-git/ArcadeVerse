@@ -193,6 +193,7 @@ header form input::placeholder {
     align-items: center;
     padding-left: 10px;
     margin-left: 20px;
+    width: 100vw;
 }
 #title-game-slider-cover > span {
     position: absolute;

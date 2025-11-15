@@ -316,7 +316,7 @@ header form input::placeholder {
     height: 220px;
 }
 #part-special-offer a:nth-child(1) .image {
-    background-image: url(images/games/apex/main.png);
+    background-image: url(./images/games/apex/main.png);
 }
 #part-special-offer a:nth-child(2) .image {
     background-image: url(images/games/dota-2/main.jpg);

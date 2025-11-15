@@ -32,8 +32,8 @@ $("#title-game-slider > div > div").each(function() {
 const titleGameSlider = Vue.createApp({
     data() {
         return {
-            titleBackground: "/images/games/dragons-dogma-2/main.png",
-            titleLogo: "/images/games/dragons-dogma-2/logo.png",
+            titleBackground: "images/games/dragons-dogma-2/main.png",
+            titleLogo: "images/games/dragons-dogma-2/logo.png",
             titleSliderTransform: ""
         }
     },

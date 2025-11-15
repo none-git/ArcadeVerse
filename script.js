@@ -18,12 +18,12 @@ $("#black-bg").click(function(){
 })
 // =======================================================================| title
 /* ==============================| game-images */
-document.querySelector("#title-game-slider > div:nth-child(1) div").style.background = "url(/images/games/dragons-dogma-2/main.png)"
-document.querySelector("#title-game-slider > div:nth-child(2) div").style.background = "url(/images/games/fallout-76/main.png)"
-document.querySelector("#title-game-slider > div:nth-child(3) div").style.background = "url(/images/games/Battlefield-2042/main.png)"
-document.querySelector("#title-game-slider > div:nth-child(4) div").style.background = "url(/images/games/cyberpunk/main.png)"
-document.querySelector("#title-game-slider > div:nth-child(5) div").style.background = "url(/images/games/forza-horizon-5/main.png)"
-document.querySelector("#title-game-slider > div:nth-child(6) div").style.background = "url(/images/games/apex/main.png)"
+document.querySelector("#title-game-slider > div:nth-child(1) div").style.background = "url(images/games/dragons-dogma-2/main.png)"
+document.querySelector("#title-game-slider > div:nth-child(2) div").style.background = "url(images/games/fallout-76/main.png)"
+document.querySelector("#title-game-slider > div:nth-child(3) div").style.background = "url(images/games/Battlefield-2042/main.png)"
+document.querySelector("#title-game-slider > div:nth-child(4) div").style.background = "url(images/games/cyberpunk/main.png)"
+document.querySelector("#title-game-slider > div:nth-child(5) div").style.background = "url(images/games/forza-horizon-5/main.png)"
+document.querySelector("#title-game-slider > div:nth-child(6) div").style.background = "url(images/games/apex/main.png)"
 /* =======================*/
 const sliderOffsetFist = Number($("#title-game-slider-cover > span").css("width").slice(0,-2))
 $("#title-game-slider > div > div").each(function() {

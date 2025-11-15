@@ -316,13 +316,13 @@ header form input::placeholder {
     height: 220px;
 }
 #part-special-offer a:nth-child(1) .image {
-    background-image: url(/images/games/apex/main.png);
+    background-image: url(images/games/apex/main.png);
 }
 #part-special-offer a:nth-child(2) .image {
-    background-image: url(/images/games/dota-2/main.jpg);
+    background-image: url(images/games/dota-2/main.jpg);
 }
 #part-special-offer a:nth-child(3) .image {
-    background-image: url(/images/games/death-stranding/main.jpg);
+    background-image: url(images/games/death-stranding/main.jpg);
 }
 /* =======================| part-new-release */
 #part-new-release .image {
@@ -333,16 +333,16 @@ header form input::placeholder {
     margin-top: 10px;
 }
 #part-new-release a:nth-child(1) .image {
-    background-image: url(/images/games/forza-horizon-5/main.png);
+    background-image: url(images/games/forza-horizon-5/main.png);
 }
 #part-new-release a:nth-child(2) .image {
-    background-image: url(/images/games/monster-hunter-rise/main.png);
+    background-image: url(images/games/monster-hunter-rise/main.png);
 }
 #part-new-release a:nth-child(3) .image {
-    background-image: url(/images/games/dying-light-2/main.jpg);
+    background-image: url(images/games/dying-light-2/main.jpg);
 }
 #part-new-release a:nth-child(4) .image {
-    background-image: url(/images/games/fallout-76/main.png);
+    background-image: url(images/games/fallout-76/main.png);
 }
 /* =======================| part-free-games */
 #part-free-games .image {
@@ -353,35 +353,35 @@ header form input::placeholder {
     margin-top: 10px;
 }
 #part-free-games a:nth-child(1) .image {
-    background-image: url(/images/games/chivalry-2/main.jpg);
+    background-image: url(images/games/chivalry-2/main.jpg);
 }
 #part-free-games a:nth-child(2) .image {
-    background-image: url(/images/games/red-dead-redemption-2/main.jpg);
+    background-image: url(images/games/red-dead-redemption-2/main.jpg);
 }
 #part-free-games a:nth-child(3) .image {
-    background-image: url(/images/games/gta-v/main.png);
+    background-image: url(images/games/gta-v/main.png);
 }
 #part-free-games a:nth-child(4) .image {
-    background-image: url(/images/games/cyberpunk/main.png);
+    background-image: url(images/games/cyberpunk/main.png);
 }
 #part-free-games a:nth-child(5) .image {
-    background-image: url(/images/games/farcry-3/main.jpg);
+    background-image: url(images/games/farcry-3/main.jpg);
 }
 #part-free-games a:nth-child(6) .image {
-    background-image: url(/images/games/god-of-war/main.jpg);
+    background-image: url(images/games/god-of-war/main.jpg);
 }
 /* =======================| part-categories */
 #part-categories .image {
     height: 220px;
 }
 #part-categories a:nth-child(1) .image {
-    background-image: url(/images/games/gta-v/main.jpg);
+    background-image: url(images/games/gta-v/main.jpg);
 }
 #part-categories a:nth-child(2) .image {
-    background-image: url(/images/games/devil-may-cry-5/main.jpg);
+    background-image: url(images/games/devil-may-cry-5/main.jpg);
 }
 #part-categories a:nth-child(3) .image {
-    background-image: url(/images/games/Battlefield-2042/main.png);
+    background-image: url(images/games/Battlefield-2042/main.png);
 }
 /* =====================================================| footer */
 footer {
